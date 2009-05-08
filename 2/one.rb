@@ -1,6 +1,6 @@
 first = 1
 second = 2
-sum = 0
+sum = 2
 fib = 0
 
 begin
