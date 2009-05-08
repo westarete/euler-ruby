@@ -32,6 +32,8 @@ end
 NUMBER = 600851475143
 
 Prime.downfrom(NUMBER/2) do |prime|
-  greatest_prime_factor = prime if prime.is_factor_of?(NUMBER)
+  if prime.is_factor_of?(NUMBER)
+    puts prime
+    exit
+  end
 end
-puts greatest_prime_factor
