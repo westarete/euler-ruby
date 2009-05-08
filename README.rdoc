@@ -1,6 +1,6 @@
 == Project Euler ==
 
-This is West Arete Computing's work on Project Euler.
+This is West Arete Computing's work on implementing Project Euler in Ruby.
 
 http://westarete.com/
 
