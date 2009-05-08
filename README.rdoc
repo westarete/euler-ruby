@@ -1,0 +1,7 @@
+== Project Euler ==
+
+This is West Arete Computing's work on Project Euler.
+
+http://westarete.com/
+
+http://projecteuler.net/
