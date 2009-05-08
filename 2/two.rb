@@ -8,10 +8,8 @@ end
 class Fibonacci
   def self.upto(max)
     fib = 0
-    first = 1
-    yield first
-    second = 2
-    yield second
+    first = 0
+    second = 1
     begin
       fib = first + second
       yield fib
