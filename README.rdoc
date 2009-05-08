@@ -1,7 +1,7 @@
-== Project Euler ==
+== Project Euler
 
 This is West Arete Computing's work on implementing Project Euler in Ruby.
 
-http://westarete.com/
+http://westarete.com
 
-http://projecteuler.net/
+http://projecteuler.net
