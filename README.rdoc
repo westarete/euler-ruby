@@ -2,6 +2,11 @@
 
 This is West Arete Computing's work on implementing Project Euler in Ruby.
 
-http://westarete.com
-
 http://projecteuler.net
+
+=== Progress
+
+  #     Started     Completed   By
+  1.    2009-05-08  2009-05-08  clinton, woods
+  2.    2009-05-08  2009-05-08  clinton, woods
+  3.    2009-05-08              clinton, woods
