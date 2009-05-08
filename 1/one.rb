@@ -1,10 +1,12 @@
 #!/usr/bin/env ruby
 
-threes = 0
-(3...1000).step(3) { |i| threes += i }
+require 'set'
 
-fives = 0
-(5...1000).step(5) { |i| fives += i }
+multiples = Set.new
 
-sum = threes + fives
+(3...1000).step(3) { |i| multiples << i }
+
+(5...1000).step(5) { |i| multiples << i }
+
+sum = multiples.inject(0) { |sum, i| sum += i }
 puts sum
